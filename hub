@@ -6,6 +6,7 @@ local supported = {
     [73956553001240] = true,
     [93978595733734] = true,
     [662417684] = true,
+    [14259168147] = true,
 }
 
 local invite = "https://discord.gg/3NjyJjjXxF"
