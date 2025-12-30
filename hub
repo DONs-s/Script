@@ -22,6 +22,7 @@ local Tabs = {
 
 -- ===== Info ===== --
 local SupportGroup = Tabs.Info:AddLeftGroupbox("Supported Games","list")
+SupportGroup:AddLabel("🌈ㆍAura Craft")
 SupportGroup:AddLabel("🏀ㆍBasketball Legends")
 SupportGroup:AddLabel("❓ㆍLUCKY BLOCKS Battlegrounds")
 SupportGroup:AddLabel("🏚️ㆍThe storage")
